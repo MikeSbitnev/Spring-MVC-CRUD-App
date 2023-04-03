@@ -9,7 +9,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7086238a-4e78-425e-8272-2d5f63908d29" name="Changes" comment="" />
+    <list default="true" id="7086238a-4e78-425e-8272-2d5f63908d29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/sbitnev/springcourse/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/sbitnev/springcourse/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/sbitnev/springcourse/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/sbitnev/springcourse/controllers/PeopleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/sbitnev/springcourse/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/sbitnev/springcourse/dao/PersonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/sbitnev/springcourse/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_world.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ua/sbitnev/springcourse/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ua/sbitnev/springcourse/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ua/sbitnev/springcourse/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ua/sbitnev/springcourse/controllers/PeopleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ua/sbitnev/springcourse/dao/PersonDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ua/sbitnev/springcourse/dao/PersonMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ua/sbitnev/springcourse/models/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ua/sbitnev/springcourse/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ua/sbitnev/springcourse/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ua/sbitnev/springcourse/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ua/sbitnev/springcourse/controllers/PeopleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ua/sbitnev/springcourse/dao/PersonDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ua/sbitnev/springcourse/dao/PersonMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ua/sbitnev/springcourse/models/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/checker-qual-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/hibernate-validator-6.2.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/postgresql-42.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-aop-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-beans-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-context-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-core-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-expression-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-jcl-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-jdbc-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-tx-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-web-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-webmvc-5.3.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/thymeleaf-3.0.15.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/thymeleaf-spring5-3.0.15.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/goodbye.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/hello_world.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/second/exit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +95,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -51,6 +127,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/IDEAProjects/MAVENIDEA/SpringMVC",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -176,6 +253,7 @@
       <updated>1680380024047</updated>
       <workItem from="1680380025132" duration="4860000" />
       <workItem from="1680417969905" duration="34526000" />
+      <workItem from="1680497851550" duration="380000" />
     </task>
     <servers />
   </component>
